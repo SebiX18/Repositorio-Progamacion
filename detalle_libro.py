@@ -1,3 +1,6 @@
+import libro
+import editorial
+
 class detalle_libro:
     def __init__(self, categorias, nro_paginas, editorial):
         self.categorias = categorias
